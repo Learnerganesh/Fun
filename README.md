@@ -1,2 +1,1 @@
-# 
-This is for fun
+# This is for fun
